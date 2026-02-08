@@ -2,9 +2,7 @@
 
  <div>
    <a href="https://github.com/ingridycandido">
-   ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ingridycandido&show_icons=true&theme=tokyonight)
-   ![Profile Card](https://animated-profile-stats.vercel.app/api/card?username=ingridycandido&type=fire)
-   ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ingridycandido)
+   <img scr="https://github-readme-stats-fast.vercel.app/api?username=ingridycandido&show_icons=true&theme=tokyonight"/>
 
 
 
