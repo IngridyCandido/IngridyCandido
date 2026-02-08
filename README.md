@@ -48,4 +48,4 @@
 
 ## 🐍 Minha animação de contribuições
 
-![Snake animation](https://raw.githubusercontent.com/IngridyCandido/IngridyCandido/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/IngridyCandido/IngridyCandido/output/github-contribution-grid-snake.svg?v=1)
