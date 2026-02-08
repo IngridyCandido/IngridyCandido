@@ -2,7 +2,12 @@
 
  <div>
    <a href="https://github.com/ingridycandido">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridycandido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+   ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ingridycandido&show_icons=true&theme=tokyonight)
+   ![Profile Card](https://animated-profile-stats.vercel.app/api/card?username=ingridycandido&type=fire)
+   ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ingridycandido)
+
+
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridycandido&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
