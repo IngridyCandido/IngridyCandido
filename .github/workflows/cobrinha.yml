@@ -23,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
           theme: dark
           color_snake: "#7aa2f7"
-          color_dots: "#16161e,#2f334d,#414868,#565f89,#9aa5ce"
+          color_dots: "#1a1b26,#24283b,#414868,#565f89,#9aa5ce"
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
