@@ -1,6 +1,8 @@
 name: Generate Snake Animation
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate snake gif
@@ -20,6 +22,9 @@ jobs:
           github_user_name: ingridycandido
           outputs: |
             dist/github-contribution-grid-snake.gif
+          theme: dark
+          color_snake: "#7aa2f7"
+          color_dots: "#1f2335,#292e42,#3b4261,#545c7e,#737aa2"
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
