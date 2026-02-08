@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/ingridycandido">
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridycandido&show_icons=true&theme=tokyonight)
+    theme=tokyonight → theme=dark
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridycandido&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
