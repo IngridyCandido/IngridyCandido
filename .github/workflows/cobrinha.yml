@@ -15,15 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake svg
+      - name: Generate snake svg (dark fixed)
         uses: Platane/snk@v3
         with:
           github_user_name: ingridycandido
           outputs: |
             dist/github-contribution-grid-snake.svg
-          theme: dark
+          background: "#1a1b26"
           color_snake: "#7aa2f7"
-          color_dots: "#1a1b26,#24283b,#414868,#565f89,#9aa5ce"
+          color_empty: "#1a1b26"
+          color_dots: "#24283b,#414868,#565f89,#9aa5ce"
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
