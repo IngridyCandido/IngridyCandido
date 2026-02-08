@@ -1,9 +1,10 @@
 ## Bem-vindo(a) ao perfil de Ingridy Candido 👋
 
 <div align="center">
-  <a href="https://github.com/ingridycandido">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ingridycandido&show_icons=true&theme=tokyonight"/>
-  </a>
+  <img height="180em"
+       src="https://github-readme-stats-fast.vercel.app/api?username=ingridycandido&show_icons=true&theme=tokyonight"/>
+  <img height="180em"
+       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ingridycandido&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
