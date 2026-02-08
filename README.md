@@ -27,6 +27,6 @@
   <a href = "ingridycandido@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingridy-candido-a71256262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/IngridyCandido/IngridyCandido/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]([https://github.com/IngridyCandido/IngridyCandido/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/ingridycandido/SEU_REPO/output/github-contribution-grid-snake.svg)
 
 </div>
