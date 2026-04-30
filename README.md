@@ -11,7 +11,7 @@
 
 ### 🚀 Tecnologias que utilizo
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40"
@@ -42,8 +42,6 @@
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
   <img align="center" alt="Bootstrap" height="30" width="40"
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
-  <img align="center" alt="TypeScript" height="30" width="40"
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" alt="TypeScript" height="30" width="40"
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
 </div>
