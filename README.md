@@ -22,10 +22,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET Core" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt=".NET" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
   <img align="center" alt="VueJS" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg">
   
 </div>
 
