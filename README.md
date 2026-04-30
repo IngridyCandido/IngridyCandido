@@ -13,13 +13,13 @@
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="CSS3" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img align="center" alt="CSharp" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img align="center" alt=".NET Core" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
   <img align="center" alt="VSCode" height="30" width="40"
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
   <img align="center" alt="VueJS" height="30" width="40"
@@ -42,6 +42,8 @@
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
   <img align="center" alt="TypeScript" height="30" width="40"
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="CPP" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
 </div>
 
 ---
