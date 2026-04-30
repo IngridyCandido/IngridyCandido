@@ -24,6 +24,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt=".NET" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="VueJS" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  
 </div>
 
 ---
