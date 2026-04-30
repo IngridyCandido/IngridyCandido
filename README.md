@@ -25,8 +25,27 @@
   <img align="center" alt="VSCode" height="30" width="40"
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
   <img align="center" alt="VueJS" height="30" width="40"
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg">
-  
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">
+  <img align="center" alt="Ubuntu" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg">
+  <img align="center" alt="Python" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+  <img align="center" alt="NextJS" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
+  <img align="center" alt="Linux" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
+  <img align="center" alt="JavaScript" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="GitHub" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
+  <img align="center" alt="TypeScript" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="TypeScript" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
 </div>
 
 ---
