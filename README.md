@@ -30,8 +30,8 @@
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40"
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
-  <img align="center" alt="NextJS" height="30" width="40"
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
+  <img align="center" alt="NestJS" height="30" width="40"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg">
   <img align="center" alt="Linux" height="30" width="40"
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
   <img align="center" alt="JavaScript" height="30" width="40"
